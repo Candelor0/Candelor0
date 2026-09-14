@@ -8,7 +8,7 @@
 
 ---
 
-简介：一名充满好奇心的 AI 产品经理实习生，热爱书籍、游戏、音乐与电影。正在探索 AI 技术与产品的交叉点，致力于将想法转化为有趣且实用的开源项目。
+简介：我是一名充满好奇心的 AI 产品经理实习生，热爱书籍、游戏、音乐与电影。正在探索 AI 技术与产品的交叉点，致力于将想法转化为有趣且实用的开源项目。
 
 I'm an AI Product Manager Intern driven by curiosity and a deep passion for books, gaming, music, and cinema. I love exploring the intersection of AI technology and user experience, turning creative ideas into impactful open-source projects.
 
