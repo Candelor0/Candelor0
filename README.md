@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://candelor0.github.io/">Website</a> •
   <a href="mailto:Candelor0@outlook.com">Email</a> •
-  <a href="https://github.com/Candelor0">GitHub</a>
 </p>
 
 ---
